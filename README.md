@@ -5,12 +5,11 @@
 
 
 
-
-
-
-
-
-
+<details>
+ <summary>ÚLTIMAS ATUALIZAÇÕES</summary>
+ <p>28/07/23 - teste de bake de textura para a Unity.</p>
+ <img src = 'https://github.com/giansb/ModelagemVRSenacTech/assets/107221898/b46c185a-c5e0-4336-bc42-57ac9e814877'>
+</details>
 
 <details>
  <summary>BLOCAGEM</summary>
@@ -21,3 +20,5 @@
   <img src = 'https://github.com/giansb/ModelagemVRSenacTech/assets/107221898/4f2f1bfd-24f2-480a-b87b-6e5f22aecea8'>
   <img src = 'https://github.com/giansb/ModelagemVRSenacTech/assets/107221898/b8d03545-74c5-447a-807d-dc72205fadb2'>
 </details>
+
+
