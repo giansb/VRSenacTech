@@ -26,6 +26,26 @@
 <details>
  <summary>ÚLTIMAS ATUALIZAÇÕES</summary>
 
+ 
+ <p>26/08/23 - Inicio da modelagem dos props do cenário e ajuste no tipo de material</p>
+
+
+
+
+
+
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/7a7bdbb1-5798-4b4f-b9cd-ad6fa3fb1062">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/aabe46a5-9c73-4728-8cb3-78f8cfcc5152">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/fd1d51d4-1c9c-4573-a0c3-1ffa24cd0854">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/7131b1c4-2f6a-4433-b777-a8e1b223ecfe">
+
+  ##
+
+
  <p>16/08/23 - Criando package da cena para utilizar no presset de VR da Unity</p>
 
  <img width= '100%' src="https://github.com/giansb/ModelagemVRSenacTech/assets/107221898/e1202735-e410-42a9-af93-c926e2a618d6">
