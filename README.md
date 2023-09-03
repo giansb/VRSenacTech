@@ -1,11 +1,11 @@
 
-<img width='100%' src='https://github.com/giansb/ModelagemVRSenacTech/assets/107221898/b4a6e68b-98d3-474d-b176-3590f844825f'>
+
+
+<img width='100%' src='https://github.com/giansb/VRSenacTech/assets/107221898/541c39a3-3022-46e7-bfd6-0ea93bb6ff8a'>
 
 <div>
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-
 
 
  
@@ -17,23 +17,58 @@
 <p>Processo de desenvolvimento do projeto VR do Senac Tech, em equipe. O projeto está sendo desenvolvido para o Oculos VR quest 2.</p>
 
 
- <img width= '100%' src="https://github.com/giansb/ModelagemVRSenacTech/assets/107221898/cf23c3f8-6a81-4573-bacb-9234452dd9c1">
+
+ <img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/b971f371-d163-4905-a4d8-82d3dc2a9e74">
 
 ## Colaboradores
+
+<a href="https://github.com/deivith3d/Logica2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=deivith3d/Logica2022" />
+</a>
+
+<a href="https://github.com/jbferraz/jbferraz/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jbferraz/jbferraz" />
+</a>
+
+<a href="https://github.com/ProfBlack3342/ProfBlack3342/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProfBlack3342/ProfBlack3342" />
+</a>
+
+<a href="https://github.com/giansb/VRSenacTech/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=giansb/VRSenacTech" />
+</a>
 
 ##
 
 <details>
  <summary>ÚLTIMAS ATUALIZAÇÕES</summary>
 
+
+
+
+
+
+
+
+ <p>02/09/23 - Inserindo novos props na cena.</p>
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/65297080-b1a1-4243-b4df-3430a8f7a265">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/db900242-bf7a-46f4-9fb8-868068c777f1">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/334317f0-5ab8-4e50-8a6b-5d2d97e01d40">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/3325b07a-1be9-48ec-8637-f348661a9218">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/69cd33d1-c16f-4b3b-9a96-9659994124ff">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/19b65eb2-9c0a-44b9-b3f1-6f9e9d71ab08">
+
+
+ ##
+
  
- <p>26/08/23 - Inicio da modelagem dos props do cenário e ajuste no tipo de material</p>
-
-
-
-
-
-
+ <p>26/08/23 - Inicio da modelagem dos props do cenário e ajuste no tipo de material.</p>
 
 <img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/7a7bdbb1-5798-4b4f-b9cd-ad6fa3fb1062">
 
