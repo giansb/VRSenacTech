@@ -44,8 +44,10 @@
  <summary>ÚLTIMAS ATUALIZAÇÕES</summary>
 
 
+<p>31/09/23 </p>
 
-
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/2e531b8a-a8f9-41e9-ba29-c68fc5aa380d">
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/4eb3e8c0-2a4e-4f33-b2bc-f02177606bf0">
 
 
 
