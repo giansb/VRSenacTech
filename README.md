@@ -8,6 +8,7 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
+
  
 </div>
 
@@ -18,7 +19,7 @@
 
 
 
- <img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/b971f371-d163-4905-a4d8-82d3dc2a9e74">
+ <img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/ba4df7dd-b086-4164-aa61-0e2d37bfd2ba">
 
 ## Colaboradores
 
@@ -43,6 +44,31 @@
 <details>
  <summary>ÚLTIMAS ATUALIZAÇÕES</summary>
 
+
+<p>29/11/2023 - desenhos dos lab's do prédio adicionados</p>
+
+
+
+
+
+
+
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/1677c86c-f1c4-4d98-9467-746fded20b7a">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/c432f423-36a3-4b61-9480-5ecfa520f1a4">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/5a54b932-f995-4457-862e-92d2feb5a1e2">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/95e1cf33-86d4-45dc-8d47-caade7fc3578">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/83e2c157-b828-46c1-8cba-81979734203c">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/16be1acc-ab62-43dc-b355-212d8be89b5d">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/2e7f90f9-efb5-4b28-85bf-122e9453e7d3">
+
+<img width= '100%' src="https://github.com/giansb/VRSenacTech/assets/107221898/81c7c76e-dfc8-4565-915b-9d80d0328d38">
 
 <p>31/09/23 </p>
 
